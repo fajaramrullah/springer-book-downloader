@@ -1,2 +1,12 @@
 # springer-book-downloader
-Springer Book Downloader
+
+How to use
+```
+$ git clone https://github.com/fajaramrullah/springer-book-downloader.git
+```
+```
+$ cd springer-book-downloader
+```
+```
+$ bash run.bash
+```
